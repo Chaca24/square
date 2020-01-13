@@ -42,6 +42,78 @@
         "4. Peniti bagian samping kanan",
         "5. Talikan kedua ujung kanan dan kiri kemudian tutup dengan lekukan sisi panjang tadi. Jadi deh"
         ]
-    }
+    },
+    {
+      "id": 4,
+      "title": "Segi Empat Simple",
+      "subjudul":"Hijup",
+      "gambar":"https://akcdn.detik.net.id/community/media/visual/2017/01/18/6432f50b-4741-4dcb-863e-d4a5615ae2d5.png?a=1",
+      "kategori":"square",
+      "langkah":[
+        "1. Siapkan scarf segiempat yang dilipat menjadi segitiga",
+        "2. Gunakan ciput terlebih dahulu agar kerudung tetap rapi",
+        "3. Letakkan di atas kepala dengan kedua sisi sama panjang",
+        "4. Ambil sisi yang kanan lalu bawa ke arah pundak kiri. Letakkan di bawah scarf bagian kiri. Biarkan ujungnya berada di belakang pundak",
+        "5. Sisi yang kanan dibawa melalui depan dada ke arah bahu kanan. Bawa hingga ke atas kepala. Ambil jarum pentul dan sematkan di atas kepala. Ingat scarf merapat ke dagu Anda"
+        ]
+    },
+    {
+      "id": 5,
+      "title": "Simple Classy",
+      "subjudul":"Restu Anggraini",
+      "gambar":"http://d3t543lkaz1xy.cloudfront.net/photo/595b2002a2ede2612bd2ed6d_m",
+      "kategori":"square",
+      "langkah":[
+        "1. Bentuk hijab square menjadi segitiga, pakai hijab dan atur ujung-ujungnya hingga sama panjang",
+        "2. Sematkan jarum pentul agar hijab terpasang rapi",
+        "3. Bawa hijab sebelah kiri memutar melewati bagian depan lalu ke belakang",
+        "4. Terus bawa ujung hijab tersebut hingga kembali lagi ke sebelah kiri",
+        "5. Ikat simpul di bagian samping leher dan buat aksen pita, Done!"
+        ]
+    },
+    {
+      "id": 6,
+      "title": "Segi Empat Untuk Wajah Bulat",
+      "subjudul":"Restu Anggraini",
+      "gambar":"https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/17/977492/content_images/670x335/20180517162130-1-tutorial-cara-memakai-hijab-segi-empat-001-tantri-setyorini.jpg",
+      "kategori":"square",
+      "langkah":[
+        "1. Pasang kerudung segi empat di kepala. Sebelumnya pakailah ciput atau inner jilbab terlebih dahulu. Pastikan agar bagian kanan lebih panjang daripada bagian kiri. Bagian kiri cukup sepanjang dada atas",
+        "2. Sematkan tepi kerudung yang dekat dengan kedua telinga dengan jarum",
+        "3. Sematkan ujung hijab segi empat yang pendek (kiri) dengan jarum di bagian dada atas. Majukan kerudung sampai menutupi sebagian pipi",
+        "4. Ambil bagian kerudung yang panjang (kanan), kemudian tarik ujung dalamnya menyilang hingga ke telinga kiri",
+        "5. Tarik terus ujung kerudung hingga kembali ke sebelah kanan",
+        "6. Terakhir sematkan sisa kain yang menjuntai dengan jarum agar menempel pada inner. Letaknya di dekat mata kanan"
+        ]
+    },
+    {
+      "id": 7,
+      "title": "Segi Empat Untuk Pesta",
+      "subjudul":"No Name",
+      "gambar":"https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/17/977492/content_images/670x335/20180517162130-3-cara-memakai-jilbab-segi-empat-untuk-pesta-002-tantri-setyorini.jpg",
+      "kategori":"square",
+      "langkah":[
+        "1. Bentuk hijab segi empat menjadi segitiga",
+        "2. Kerudungkan jilbab dengan bagian kiri dan kanan sama panjang",
+        "3. Sematkan jarum di bagian pipi bawah sebelah kiri",
+        "4. Sematkan juga bagian kanan dengan jarum",
+        "5. Pastikan kedua sisi benar benar sama panjang",
+        "6. Tarik kedua sisi jilbab ke bagian kanan belakang",
+        "7. Ambil ujung kain yang paling panjang. Tarik ke puncak kepala hingga membentuk layer cantik. Sematkan dengan jarum pentul"
+        ]
+    },
+    {
+      "id": 8,
+      "title": "Segi Empat Simple",
+      "subjudul":"No Name",
+      "gambar":"https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/17/977492/content_images/670x335/20180517162131-6-tutorial-cara-memakai-hijab-segitiga-001-tantri-setyorini.jpg",
+      "kategori":"square",
+      "langkah":[
+        "1. Lipat kerudung segi empat menjadi segitiga. Kemudian letakkan di kepala dengan kedua sisi yang sama panjang. Ambil bagian tengah kerudung, bukan tepiannya. Setelah itu sematkan dengan jarum atau peniti",
+        "2. Silangkan kedua ujung kerudung, kemudian sampirkan ke balik pundak. Satukan kedua ujung tersebut, kemudian ikat. Pastikan ikatan tertutup ujung segitiga kerudung yang berada di bagian belakang",
+        "3. Rapikan bagian depannya dengan tangan agar tidak terlihat ketat di bagian leher"
+        ]
+    },
+    
   ]
 }
