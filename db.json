@@ -1,0 +1,47 @@
+{
+  "square": [
+    {
+      "id": 1,
+      "title": "Hijab Casual",
+      "subjudul":"Hijab Lyfe",
+      "gambar":"https://cdn.suqma.com/media/product/905/m/SUQMA_Ravenna_Snow_White_Hijab_Navy_0031.jpg",
+      "kategori":"square",
+      "langkah":[
+        "1. Lipat jilbab segiempat menjadi segitiga, tidak sama besar",
+        "2. Letakkan hijab sisi kanan lebih pendek dari sisi kiri",
+        "3. Sematkan jarum pentul di sisi kanan",
+        "4. Sematkan jarum pentul di hijab sisi kiri",
+        "5. Tarik ujung sisi kiri hijab ke bahu kanan, sematkan jarum pentul."
+        ]
+    },
+    {
+      "id": 2,
+      "title": "hijab segi empat menutup dada",
+      "subjudul":"Shireen Sungkar",
+      "gambar":"https://awsimages.detik.net.id/community/media/visual/2019/01/28/55a3a272-c75c-4b42-8baf-cdad43907c15_169.jpeg?w=620",
+      "kategori":"square",
+      "langkah":[
+        "1. bentuk hijab jadi segitiga seperti biasanya",
+        "2. Kenakan di kepala dengan kedua sisi yang sama panjang",
+        "3. Letakkan sisi hijab kanan secara berseberangan lalu rekatkan ujungnya menggunakan jarum atau peniti di bagian ciput dekat telinga",
+        "4. Sisa ujung hijabnya bisa kamu letakkan di belakang leher lalu rekatkan kembali dengan jarum pentul di samping jarum yang satunya",
+        "5. Buat bagian luarnya, kamu bisa rekatkan kembali dengan jarum pentul.",
+        "6. Buat sisi kirinya, rekatkan di bahu sebelah kanan."
+        ]
+    },
+    {
+      "id": 3,
+      "title": "Segi Empat Dagu Terbuka",
+      "subjudul":"Hijup",
+      "gambar":"https://d3t543lkaz1xy.cloudfront.net/photo/5c4219c0232f0a0fd4968f67_m",
+      "kategori":"square",
+      "langkah":[
+        "1. Pasang dalaman ninja ke kepala dan lipat hijab segi empat menjadi dua bagian segitiga dengan bagian luar berukuran lebih besar",
+        "2. Aplikasikan hijab ke wajah, ukuran lebih pendek satu sebahu",
+        "3. Tarik sisi yang panjang ke samping dan dilanjutkan ke atas kepala sehingga kain menutupi kepala bagian atas",
+        "4. Peniti bagian samping kanan",
+        "5. Talikan kedua ujung kanan dan kiri kemudian tutup dengan lekukan sisi panjang tadi. Jadi deh"
+        ]
+    }
+  ]
+}
